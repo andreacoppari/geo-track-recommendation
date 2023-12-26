@@ -13,10 +13,9 @@ geodata-to-mountain-track-descriptions/
 |   |-- finetuning_mistral_7b.ipynb
 |   |-- ...
 |-- data/
-|   |-- datasets/
-|   |   |-- dataset_eng.json
-|   |   |-- export_track.geojson
-|   |   |-- ...
+|   |-- dataset_eng.json
+|   |-- export_track.geojson
+|   |-- ...
 |-- src/
 |   |-- images/
 |       |-- image_1.png
@@ -26,9 +25,9 @@ geodata-to-mountain-track-descriptions/
 
 - **code**: This directory contains Python notebooks for the finetuning of the phi-1.5 and Mistral-7b GPT models. Each subdirectory corresponds to a specific model.
 
-- **data**: This directory houses datasets and additional data-related resources. The `datasets` folder contains CSV files representing different datasets, while the `data_stuff` folder includes any supplementary data or preprocessing scripts.
+- **data**: This directory houses datasets and additional data-related resources.
 
-- **src**: Here, you will find images that can be embedded in the README file to provide visual representations of the phi-1.5 and Mistral-7b GPT models.
+- **src**: Here, you will find images that can be embedded in the README file.
 
 ## Model Description
 
