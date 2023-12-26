@@ -23,7 +23,7 @@ geodata-to-mountain-track-descriptions/
 |-- README.md
 ```
 
-- **code**: This directory contains Python notebooks for the finetuning of the phi-1.5 and Mistral-7b GPT models. Each subdirectory corresponds to a specific model.
+- **code**: This directory contains Python notebooks for the finetuning of the phi-1.5 and Mistral-7b models.
 
 - **data**: This directory houses datasets and additional data-related resources.
 
