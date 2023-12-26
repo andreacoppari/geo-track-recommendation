@@ -41,7 +41,7 @@ The purpose of this repository is to showcase a model that utilizes geospatial d
 ## Images
 
 ### First idea
-![Phi-1.5 Model](src/images/image_1.png)
+![First Idea](src/images/image_1.png)
 
 ### Final idea
-![Mistral-7b Model](src/images/image_2.png)
+![Final Idea](src/images/image_2.png)
