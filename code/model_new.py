@@ -4,7 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import json
 
 class TrackMatcher:
-    def __init__(self, bert_model_name="bert-base-uncased", decoder_model_name="microsoft/phi-1_5"): # descrizioni in italiano
+    def __init__(self, bert_model_name="distilbert-base-multilingual-cased", decoder_model_name="andrea-coppari/mistral-7b-geodata-finetuning-eng-1500"):
         self.bert_tokenizer = BertTokenizer.from_pretrained(bert_model_name)
         self.bert_model = BertModel.from_pretrained(bert_model_name)
         self.decoder_tokenizer = AutoTokenizer.from_pretrained(decoder_model_name)
