@@ -41,7 +41,7 @@ The purpose of this repository is to showcase a model that utilizes geospatial d
 ## Images
 
 ### First idea
-![First Idea](src/images/image_1.png)
+![First Idea](src/image_1.jpg)
 
 ### Final idea
-![Final Idea](src/images/image_2.png)
+![Final Idea](src/image_2.png)
